@@ -1,0 +1,92 @@
+body{
+overflow-x:hidden;
+font-family:"Poor Richard";
+padding:0px;
+margin:0px;
+background:url(hello.jpg); 
+}
+.div1{
+    font-family:"stencil";
+	margin-left: 0px;
+	margin-right: 0px;
+	width: 100%;
+	margin-top:-15px;
+	height: 80px;
+	padding-top:20px;
+	padding-left: 20px;
+	background-image:url(719fe4db7ff56fc99887bdc021dd9ade.jpg);
+	background-size: cover;
+	position: fixed;
+	top: 0px; 
+}
+.div_nav a{
+	float: right;
+	padding: 10px ;
+	display: inline-block;
+	text-decoration: none;
+	font-size: 20px;
+	margin-right: 40px;
+	margin-top: 10px;
+	font-weight:500;
+	color:#CC66CC;
+}
+.div_nav a:hover{
+	border-bottom: 3px solid purple;
+}
+.div_nav a:active{
+	border-bottom: 3px solid purple;
+}
+.div1 img{
+	float: left;
+	padding-left:25px;
+	width:260px ;
+	margin-top:0px;
+	height:75px ;
+}
+.div2{
+	width: 100%;
+	height: 650px;
+	margin-top:10px;
+	padding: 0px;
+}
+.div2 img{
+ 	width: 100%;
+ 	height: 650px;
+}
+.main{
+padding-left:80px;
+padding-right:150px;
+padding-top:0px;
+width:100%;
+}
+.heading{
+width:100%;
+height:180px;
+text-align:center;
+background-attachment:fixed;
+font-size:72px;
+padding-top:80px;
+color:white;
+background:url(banner.jpg);
+background-size:cover;
+background-attachment:fixed;
+}
+.tbimg{
+background-color:#FFFFFF;
+width:200px; 
+height:290px;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+padding:15px;
+}
+.tbimg:hover{
+	transform:scale(1.2);
+}
+img{
+width:197px;
+height:235px;
+}
+.tags{
+padding:10px;
+text-align:center;
+font-size:25px;
+}

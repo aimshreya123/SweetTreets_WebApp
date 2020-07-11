@@ -1,0 +1,214 @@
+body{
+	font-family:"Poor Richard";
+	margin: 0px;
+	padding: 0px;
+	background-attachment: fixed;
+	background-image: url(back.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	overflow-x: hidden;
+	color:#990066;
+	font-weight:600;
+}
+.div1{
+    font-family:"stencil";
+	margin-left: 0px;
+	margin-right: 0px;
+	width: 100%;
+	margin-top:-15px;
+	height: 80px;
+	padding-top:20px;
+	padding-left: 20px;
+	background-image:url(719fe4db7ff56fc99887bdc021dd9ade.jpg);
+	background-size: cover;
+	position: fixed;
+	top: 0px; 
+	z-index:9999;
+}
+.div_nav a{
+	float: right;
+	padding: 10px ;
+	display: inline-block;
+	text-decoration: none;
+	font-size: 20px;
+	margin-right: 40px;
+	margin-top: 10px;
+	font-weight:500;
+	color:#CC66CC;
+}
+.div_nav a:hover{
+	border-bottom: 3px solid purple;
+}
+.div_nav a:active{
+	border-bottom: 3px solid purple;
+}
+.div1 img{
+	float: left;
+	padding-left:25px;
+	width:260px ;
+	margin-top:0px;
+	height:75px ;
+}
+.div2{
+	width: 100%;
+	height: 650px;
+	margin-top:10px;
+	padding: 0px;
+}
+.div2 img{
+ 	width: 100%;
+ 	height: 650px;
+}
+.div3{
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 15px;
+	width: 100%;
+	height: 200px;
+	background-color: rgba(128,0,128,0.6);
+	overflow: hidden;
+	color:#000000;
+}
+.div3 p{
+font-size:24px;
+font-family:"Stencil";
+font-weight:800;
+color:#FFCCFF;
+}
+.div4{
+	padding-left: 20px;
+	padding-top: 15px;
+	margin-right:0px;
+	width: 92%;
+	height: 600px;
+	background-color: rgba(255,255,255,0.6);
+	overflow: hidden;
+	padding-right:20px;
+	font-size:20px;
+	margin-left:20px;
+	margin-right:20px;
+}
+.div4 img{
+	border-radius: 50%;
+	padding: 15px;
+	height:100px;
+	width:100px;
+	
+}
+.button{
+	width: 150px;
+	border-radius: 12px;
+	background-color:#990066;
+	height:35px;
+	color:#FFFFFF;
+	font-family:"Poor Richard";
+}
+.div4 td{
+padding-left:15px;
+}
+.div5{
+	width: 100%;
+	height: 450px;
+	background-image:url(44698400_242728936405343_6216057935018065920_n.jpg);
+	background-attachment:fixed;
+	background-size:cover;
+	overflow: hidden;
+}
+.div6{
+background-color:rgba(128,0,128,0.8);
+text-align:center;
+padding:50px;
+color:#FFFFFF;
+font-size:34px;
+letter-spacing:2px;
+}
+.div_footer{
+	background-image:url(719fe4db7ff56fc99887bdc021dd9ade.jpg);
+	background-size: cover;
+	height: 100px;
+	width: 100%;
+}
+.contactform{
+background-color:rgba(255,255,255,0.6);
+padding:50px;
+font-size:18px;
+width:70%;
+margin-left:10%;
+margin-right:10%;
+}
+.headingform{
+padding-top:50px;
+width:100%;
+height:180px;
+color:#FFCCFF;
+background-color:rgba(128,0,128,0.6);
+font-size:30px;
+}
+.box{
+	padding:10px;
+	width:250px;
+	font-family:"Poor Richard";
+	border-radius:10px;
+	height: 15px;
+}
+.btn{
+    width: 100%;
+	border-radius: 12px;
+	background-color:#990066;
+	height:50px;
+	padding:10px;
+	font-size:24px;
+	letter-spacing:8px;
+	color:#FFFFFF;
+	font-family:"Poor Richard";
+}
+table{
+	text-align: center;
+	margin: 0px;
+	column-width: 100px;
+}
+.headdd{
+width:100%;
+height:180px;
+font-size:x-large;
+text-align:center;
+background-attachment:fixed;
+padding-top:80px;
+color:white;
+background:url(banner.jpg);
+background-size:cover;
+background-attachment:fixed;
+}
+.info{
+	margin: 60px;
+	width: 90%;
+	text-align: center;
+	height: 600px;
+	background-color: rgba(255,255,255,0.7);
+}
+.tble{
+width:90%;
+}
+.info td{
+	width: 50%;
+	padding: 20px;
+}
+.heading{
+width:100%;
+height:180px;
+text-align:center;
+background-attachment:fixed;
+font-size:72px;
+padding-top:80px;
+color:white;
+background:url(banner.jpg);
+background-size:cover;
+background-attachment:fixed;
+}
+.ab{
+margin:50px;
+padding:50px;
+text-align:center;
+font-size:25px;
+background-color:rgba(255,255,255,0.4);
+}
